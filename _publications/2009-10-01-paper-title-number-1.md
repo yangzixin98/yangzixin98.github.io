@@ -2,12 +2,12 @@
 title: "Model Checking in Partially Linear Spatial Autoregressive Models"
 collection: publications
 category: manuscripts
-permalink: /publication/model_checking_SAR
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
 date: 2024-10-01
 venue: 'Journal of Business & Economic Statistics'
 slidesurl: ''
-paperurl: ''
+paperurl: 'https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2301958'
 citation: ''
 ---
 
