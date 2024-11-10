@@ -7,7 +7,7 @@ excerpt: ''
 date: 2025-01-01
 venue: 'Statistics & Probability Letters'
 slidesurl: ''
-paperurl: 'http://yangzixin98.github.io/files/Unified specification tests in QR.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0167715224002128?via%3Dihub'
 citation: ''
 ---
 
