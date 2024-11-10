@@ -32,9 +32,9 @@ Teaching
 
 **Teaching Assistant**
 
-* _Advanced Econometrics_(Ph.D. level), Peking University, Fall 2023, 2024.
-* _Data Analysis and Statistical Decision-making_(master level), Peking University, Fall 2022, 2023.
-* _Econometrics_(undergraduate level), Peking University, Spring 2022, 2023.
+* _Advanced Econometrics_ (Ph.D. level), Peking University, Fall 2023, 2024.
+* _Data Analysis and Statistical Decision-making_ (master level), Peking University, Fall 2022, 2023.
+* _Econometrics_ (undergraduate level), Peking University, Spring 2022, 2023.
   
 Awards
 ======
