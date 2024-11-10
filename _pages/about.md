@@ -11,7 +11,7 @@ I am currently a Ph.D. candidate at [Guanghua School of Management, Peking Unive
 
 My research interests lie in spatial and network econometrics. My current research focuses on formal specification, testing and estimation of nonparametric network and social interaction models. I also work on specification tests for quantile and expectile regressions.
 
-You can find my CV here.
+You can find my CV [here](../assets/CV_Zixin.pdf).
 
 Contact
 ======
