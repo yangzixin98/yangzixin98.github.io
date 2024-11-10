@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics, Guanghua School of Management, Peking University, 2020-present.
+* B.S. in Statistics, School of Statistics, Beijing Normal University, 2016-2020.
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spatial and Network Econometrics.
+* Nonparametric and Semiparametric Methods.
+* Model Specification Tests.
   
-Skills
+Presentations
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* International Symposium on Advances in Panel Data and Time Series Econometrics in Honor of Professor Cheng Hsiao, Xiamen, July 2023.
+* IAAE Annual Conference 2024, Xiamen, June 2024.
+* IAER Econometrics workshop, Dalian, June 2024.
+* ICSA 2024 China Conference, Wuhan, June 2024.
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+**Teaching Assistant**
+
+* _Advanced Econometrics_(Ph.D. level), Peking University, Fall 2023, 2024.
+* _Data Analysis and Statistical Decision-making_(master level), Peking University, Fall 2022, 2023.
+* _Econometrics_(undergraduate level), Peking University, Spring 2022, 2023.
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* President Scholarship for Doctoral Students, Peking University.
+* First-Class Excellence Scholarship, Beijing Normal University.
