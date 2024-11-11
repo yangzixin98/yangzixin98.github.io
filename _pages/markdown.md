@@ -12,6 +12,11 @@ redirect_from:
 2. Xiaojun Song and Zixin Yang (2024). ["Unified specification tests in partially linear quantile regression models"](https://doi.org/10.1016/j.spl.2024.110243). **Statistics & probability letters**, 216, 110243.
 3. Zhaoqing Tian, Peng Wu, Zixin Yang, Dingjiao Cai, and Qirui Hu (2023). ["Robust nonparametric estimation of average treatment effects: A propensity score-based varying coefficient approach"](https://onlinelibrary.wiley.com/doi/10.1002/sta4.637). Stat, 12(1), e637.
 
+## Working Papers
+1. [**Job Market Paper**]"Estimation of spatial autoregressive panel data models with nonparametric endogenous effect", with Xiaojun Song and Jihai Yu, 2024, Revise & Resubmit at **Journal of Econometrics**.
+2. "Nonparametric network autoregression", with Xiaojun Song and Jihai Yu, 2024.
+3. "Expectile regression under misspecification", with Xiaojun Song, 2024.
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
