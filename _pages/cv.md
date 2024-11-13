@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF](../assets/CV_Zixin.pdf)
+
 Education
 ======
 * Ph.D in Economics, Guanghua School of Management, Peking University, 2020-present.
