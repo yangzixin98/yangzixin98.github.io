@@ -14,6 +14,6 @@ redirect_from:
 
 ## Working Papers
 1. [**Job Market Paper**] ["Estimation of spatial autoregressive panel data models with nonparametric endogenous effect"](..files//NLSAR.pdf), with Xiaojun Song and Jihai Yu, 2024, Revise & Resubmit at **Journal of Econometrics**.
-2. ["Nonparametric network autoregression"](..//files//Nonparametric Network Autoregression_Zixin Yang.pdf), with Xiaojun Song and Jihai Yu, 2024.
+2. ["Nonparametric network autoregression"](..files//NLNAR.pdf), with Xiaojun Song and Jihai Yu, 2024.
 3. "Expectile regression under misspecification", with Xiaojun Song, 2024.
 
