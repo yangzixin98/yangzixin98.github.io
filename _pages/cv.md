@@ -38,7 +38,10 @@ Teaching
 * _Data Analysis and Statistical Decision-making_ (master level), Peking University, Fall 2022, 2023.
 * _Econometrics_ (undergraduate level), Peking University, Spring 2022, 2023.
   
-Awards
+Awards and Honors
 ======
 * President Scholarship for Doctoral Students, Peking University.
+* ICBC STAR Scholarship, Peking University.
 * First-Class Excellence Scholarship, Beijing Normal University.
+
+
