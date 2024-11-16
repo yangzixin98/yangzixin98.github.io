@@ -15,5 +15,5 @@ I am on the **2024/25 academic job market**.
 
 Contact
 ======
-* **Email**: yangzixin@stu.pku.edu.cn
+* **Email**: [yangzixin@stu.pku.edu.cn](yangzixin@stu.pku.edu.cn)
 * **Address**: 5 Yiheyuan Road, Peking University, Haidian District, Beijing, 100871, China.
