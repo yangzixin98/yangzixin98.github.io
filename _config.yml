@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Zixin Yang 杨子欣"
 title_separator          : "-"
 name                     : &name "Zixin Yang"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "yangzixin98/yangzixin98.github.io"
 author:
   # Biographic information
   avatar           : "photo.png"
-  name             : "Zixin Yang 杨子欣"
+  name             : "Zixin Yang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Economics"
   location         : "Beijing"
