@@ -28,6 +28,7 @@ Presentations
 * IAAE Annual Conference 2024, Xiamen, June 2024.
 * IAER Econometrics workshop, Dalian, June 2024.
 * ICSA 2024 China Conference, Wuhan, June 2024.
+* Seminar at School of Statistics, Beijing Normal University, November 2024.
   
 Teaching
 ======
@@ -40,8 +41,9 @@ Teaching
   
 Awards and Honors
 ======
-* President Scholarship for Doctoral Students, Peking University.
-* ICBC STAR Scholarship, Peking University.
-* First-Class Excellence Scholarship, Beijing Normal University.
+* President Scholarship for Doctoral Students, Peking University, 2024.
+* ICBC STAR Scholarship, Peking University, 2024.
+* Merit Student, Peking University, 2024.
+* First-Class Excellence Scholarship, Beijing Normal University, 2018-2020.
 
 
