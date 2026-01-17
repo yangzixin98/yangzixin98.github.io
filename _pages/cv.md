@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, Guanghua School of Management, Peking University, 2020-present.
+* Ph.D in Economics, Guanghua School of Management, Peking University, 2020-2025.
 * B.S. in Statistics, School of Statistics, Beijing Normal University, 2016-2020.
 
 Research Interests
@@ -29,6 +29,7 @@ Presentations
 * IAER Econometrics workshop, Dalian, June 2024.
 * ICSA 2024 China Conference, Wuhan, June 2024.
 * Seminar at School of Statistics, Beijing Normal University, November 2024.
+* Shanghai Econometrics Workshop, July 2025.
   
 Teaching
 ======
