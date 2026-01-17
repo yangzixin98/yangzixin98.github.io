@@ -15,7 +15,7 @@ redirect_from:
 
 ## Working Papers
 1. ["Nonparametric Network Vector Autoregression"](https://yangzixin98.github.io/Nonlinear_NAR.pdf), with Xiaojun Song and Jihai Yu, 2025.
-2. ["Expectile Regression Process under Misspecification"](https://yangzixin98.github.io/Expectile process.pdf), with Xiaojun Song, 2025.
-3. ["Checking the Adequacy of Quantile Regression Processes"](https://yangzixin98.github.io/Gradient_Projection_Quantile_Tests.pdf), with Daisheng Tao and Xiaojun Song, 2025.
+2. ["Expectile Regression Process under Misspecification"](https://yangzixin98.github.io/Expectile_process.pdf), with Xiaojun Song, 2025.
+3. ["Checking the Adequacy of Quantile Regression Processes"](https://yangzixin98.github.io/Gradient_Projection_Quantile_Tests.pdf), with Shengtao Dai and Xiaojun Song, 2025.
 4. Bootstrap Inference for Matching Estimator under Spatially Correlated Effects, with Minghai Mao, 2025.
 5. Quantile treatment effect under local interference, with Zequn Jin and Gaoquan Xu, 2025.
