@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+[CV](https://yangzixin98.github.io/files/CV_yzx.pdf)
 
 Education
 ======
