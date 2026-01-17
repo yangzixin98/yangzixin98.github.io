@@ -21,7 +21,7 @@ repository               : "yangzixin98/yangzixin98.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo1.png"
+  avatar           : "photo1.jpg"
   name             : "Zixin Yang"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer"
